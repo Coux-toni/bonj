@@ -1,0 +1,19 @@
+{
+    "name": "agovo/bonj",
+    "description": "so a bracka",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Agovo\\Bonj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Govorusic",
+            "email": "agovorusic@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
